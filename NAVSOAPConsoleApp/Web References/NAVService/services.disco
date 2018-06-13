@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://localhost:7047/DynamicsNAV100/WS/CRONUS CZ s.r.o./SystemService" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <contractRef ref="http://localhost:7047/DynamicsNAV100/WS/CRONUS CZ s.r.o./Codeunit/Letters" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <contractRef ref="http://localhost:7047/DynamicsNAV100/WS/CRONUS CZ s.r.o./Page/Customer" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <contractRef ref="http://localhost:7047/DynamicsNAV100/WS/CRONUS CZ s.r.o./Page/powerbifinance" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <contractRef ref="http://localhost:7047/DynamicsNAV100/WS/CRONUS CZ s.r.o./Page/SalesOrder" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+</discovery>

@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NAVSOAPConsoleApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NAVSOAPConsoleApp_NAVService_powerbifinance_Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:7047/DynamicsNAV100/WS/CRONUS%20CZ%20s.r.o./Page/powerbifinance</Value>
+    </Setting>
+    <Setting Name="NAVSOAPConsoleApp_NAVService_SalesOrder_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://localhost:7047/DynamicsNAV100/WS/CRONUS%20CZ%20s.r.o./Page/SalesOrder</Value>
+    </Setting>
+    <Setting Name="NAVSOAPConsoleApp_NAVService_Customer_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://localhost:7047/DynamicsNAV100/WS/CRONUS%20CZ%20s.r.o./Page/Customer</Value>
+    </Setting>
+    <Setting Name="NAVSOAPConsoleApp_NAVService_Letters" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://localhost:7047/DynamicsNAV100/WS/CRONUS%20CZ%20s.r.o./Codeunit/Letters</Value>
+    </Setting>
+    <Setting Name="NAVSOAPConsoleApp_NAVService_SystemService" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://localhost:7047/DynamicsNAV100/WS/CRONUS%20CZ%20s.r.o./SystemService</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
